@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\química à toa\química à toa\FileName.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluno\source\repos\química à toa\química à toa\FileName.cpp(7,7): warning C4101: 'letter': variável local não referenciada
+  química à toa.vcxproj -> C:\Users\aluno\source\repos\química à toa\x64\Debug\química à toa.exe
